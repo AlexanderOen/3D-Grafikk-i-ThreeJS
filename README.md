@@ -8,6 +8,7 @@ Dette prosjektet gikk ut på å lage en scene i ThreeJS med bruk av diverse avan
 - bump- og normalmaps
 - Lavabevegelse samt refleksjoner
 - Tåke
+- Skybox
 
 Her er en liten video av prosjektet:
 
