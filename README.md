@@ -8,6 +8,7 @@ Dette prosjektet gikk ut på å lage en scene i ThreeJS med bruk av diverse avan
 - bump- og normalmaps
 - Lava-refleksjoner og tåke
 
+Her er en liten video av prosjektet:
 
-https://user-images.githubusercontent.com/97899685/170270005-2b3c9822-c428-4b58-964e-908e14e26ea8.mp4
+https://user-images.githubusercontent.com/97899685/170270213-373ec7db-7ef2-459e-aa8d-729b32a20509.mp4
 
