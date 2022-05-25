@@ -9,6 +9,5 @@ Dette prosjektet gikk ut på å lage en scene i ThreeJS med bruk av diverse avan
 - Lava-refleksjoner og tåke
 
 
-
-
+https://user-images.githubusercontent.com/97899685/170270005-2b3c9822-c428-4b58-964e-908e14e26ea8.mp4
 
